@@ -1,0 +1,14 @@
+C:\Visual Studio 2022\OverloadingExtensionMethods\OverloadingExtensionMethods\bin\Debug\net8.0\OverloadingExtensionMethods.exe
+C:\Visual Studio 2022\OverloadingExtensionMethods\OverloadingExtensionMethods\bin\Debug\net8.0\OverloadingExtensionMethods.deps.json
+C:\Visual Studio 2022\OverloadingExtensionMethods\OverloadingExtensionMethods\bin\Debug\net8.0\OverloadingExtensionMethods.runtimeconfig.json
+C:\Visual Studio 2022\OverloadingExtensionMethods\OverloadingExtensionMethods\bin\Debug\net8.0\OverloadingExtensionMethods.dll
+C:\Visual Studio 2022\OverloadingExtensionMethods\OverloadingExtensionMethods\bin\Debug\net8.0\OverloadingExtensionMethods.pdb
+C:\Visual Studio 2022\OverloadingExtensionMethods\OverloadingExtensionMethods\obj\Debug\net8.0\OverloadingExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\OverloadingExtensionMethods\OverloadingExtensionMethods\obj\Debug\net8.0\OverloadingExtensionMethods.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\OverloadingExtensionMethods\OverloadingExtensionMethods\obj\Debug\net8.0\OverloadingExtensionMethods.AssemblyInfo.cs
+C:\Visual Studio 2022\OverloadingExtensionMethods\OverloadingExtensionMethods\obj\Debug\net8.0\OverloadingExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\OverloadingExtensionMethods\OverloadingExtensionMethods\obj\Debug\net8.0\OverloadingExtensionMethods.dll
+C:\Visual Studio 2022\OverloadingExtensionMethods\OverloadingExtensionMethods\obj\Debug\net8.0\refint\OverloadingExtensionMethods.dll
+C:\Visual Studio 2022\OverloadingExtensionMethods\OverloadingExtensionMethods\obj\Debug\net8.0\OverloadingExtensionMethods.pdb
+C:\Visual Studio 2022\OverloadingExtensionMethods\OverloadingExtensionMethods\obj\Debug\net8.0\OverloadingExtensionMethods.genruntimeconfig.cache
+C:\Visual Studio 2022\OverloadingExtensionMethods\OverloadingExtensionMethods\obj\Debug\net8.0\ref\OverloadingExtensionMethods.dll

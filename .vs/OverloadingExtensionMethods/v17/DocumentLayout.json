@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Visual Studio 2022\\OverloadingExtensionMethods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{646C082D-28C3-470A-8CC1-90E129634160}|OverloadingExtensionMethods\\OverloadingExtensionMethods.csproj|c:\\visual studio 2022\\overloadingextensionmethods\\overloadingextensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646C082D-28C3-470A-8CC1-90E129634160}|OverloadingExtensionMethods\\OverloadingExtensionMethods.csproj|solutionrelative:overloadingextensionmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C082D-28C3-470A-8CC1-90E129634160}|OverloadingExtensionMethods\\OverloadingExtensionMethods.csproj|c:\\visual studio 2022\\overloadingextensionmethods\\overloadingextensionmethods\\ienumerableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646C082D-28C3-470A-8CC1-90E129634160}|OverloadingExtensionMethods\\OverloadingExtensionMethods.csproj|solutionrelative:overloadingextensionmethods\\ienumerableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646C082D-28C3-470A-8CC1-90E129634160}|OverloadingExtensionMethods\\OverloadingExtensionMethods.csproj|c:\\visual studio 2022\\overloadingextensionmethods\\overloadingextensionmethods\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646C082D-28C3-470A-8CC1-90E129634160}|OverloadingExtensionMethods\\OverloadingExtensionMethods.csproj|solutionrelative:overloadingextensionmethods\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEnumerableExtensions.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\OverloadingExtensionMethods\\OverloadingExtensionMethods\\IEnumerableExtensions.cs",
+              "RelativeDocumentMoniker": "OverloadingExtensionMethods\\IEnumerableExtensions.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\OverloadingExtensionMethods\\OverloadingExtensionMethods\\IEnumerableExtensions.cs",
+              "RelativeToolTip": "OverloadingExtensionMethods\\IEnumerableExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:55:36.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\OverloadingExtensionMethods\\OverloadingExtensionMethods\\Order.cs",
+              "RelativeDocumentMoniker": "OverloadingExtensionMethods\\Order.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\OverloadingExtensionMethods\\OverloadingExtensionMethods\\Order.cs",
+              "RelativeToolTip": "OverloadingExtensionMethods\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:39:58.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\OverloadingExtensionMethods\\OverloadingExtensionMethods\\Program.cs",
+              "RelativeDocumentMoniker": "OverloadingExtensionMethods\\Program.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\OverloadingExtensionMethods\\OverloadingExtensionMethods\\Program.cs",
+              "RelativeToolTip": "OverloadingExtensionMethods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:35:38.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
